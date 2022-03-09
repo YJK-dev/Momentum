@@ -1,2 +1,1 @@
-# Momentum
-Momentum App Clone 
+# Momentum 
